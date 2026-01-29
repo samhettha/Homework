@@ -3,7 +3,7 @@ class Food
 	public static void main(String[] args)
 	{
 		
-		String foodName = "Panner Butter Masala";
+	String foodName ="Panner Butter Masala";
       Boolean isVegeterarain=true;
 	 float screenSize = 250.50f;
      short calories =400;
